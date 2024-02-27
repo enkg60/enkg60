@@ -1,7 +1,7 @@
 <h1 align="center">Emilio Guevara</h1>
 <h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
 
-<h3 align="center">💬 Now:</h3>
+<h4 align="center">💬 Now:</h4>
 - Creating chess in C++.
 
 # 💭 Later:
