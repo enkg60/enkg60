@@ -2,10 +2,10 @@
 <h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
 
 
-## 💬 Now:
+### 💬 Now:
 * Creating chess in C++.
 
-## 💭 Later:
+### 💭 Later:
 * Quake inspired game using SDL2*
 * Learn graphics programming
 
