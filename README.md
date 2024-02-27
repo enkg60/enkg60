@@ -3,11 +3,11 @@
 
 ---
 # 💬 Now:
-- Creating chess in C++.
+* Creating chess in C++.
 
 # 💭 Later:
-- Quake inspired game using SDL2
-- Learn graphics programming
+* Quake inspired game using SDL2*
+** Learn graphics programming
 
 
 # 💻 Known Tech:
