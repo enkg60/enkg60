@@ -1,8 +1,10 @@
 <h1 align="center">Emilio Guevara</h1>
 <h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
 
+---
+
 <h4 align="center">💬 Now:</h4>
-- Creating chess in C++.
+<h5 align="center">- Creating chess in C++.</h5>
 
 # 💭 Later:
 - Quake inspired game using SDL2
