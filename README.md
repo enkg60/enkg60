@@ -1,13 +1,13 @@
 <h1 align="center">Emilio Guevara</h1>
 <h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
 
----
+
 # 💬 Now:
 * Creating chess in C++.
 
 # 💭 Later:
 * Quake inspired game using SDL2*
-** Learn graphics programming
+* Learn graphics programming
 
 
 # 💻 Known Tech:
