@@ -12,7 +12,7 @@
 
 [More...](./todo.md)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enkg60k&theme=solarized-light&show_icons=true" alt="enkg" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enkg60k&theme=solarized-light&show_icons=true&hide_border=false&count_private=false" alt="enkg" /></p>
 <!-- ![enkg60's Stats](https://github-readme-stats.vercel.app/api?username=enkg60&theme=solarized-light&show_icons=true&hide_border=false&count_private=false) -->
 
 # 💻 Known Tech:
