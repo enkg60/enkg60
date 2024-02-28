@@ -11,6 +11,7 @@
 * Learn Rust
 
 [More...](./todo.md)
+---
 
 ![enkg60's Stats](https://github-readme-stats.vercel.app/api?username=enkg60&theme=solarized-light&show_icons=true&hide_border=false&count_private=false)
 
