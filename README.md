@@ -1,7 +1,7 @@
 <h1 align="center">Emilio Guevara</h1>
 <h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=enkg60)
 
 ### 💬 Now:
 * Creating chess in C++.
