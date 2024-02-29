@@ -1,18 +1,3 @@
-<h1 align="center">Emilio Guevara</h1>
-<h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
-#+BEGIN_CENTER
-Emilio Guevara
-#+END_CENTER
-![](https://komarev.com/ghpvc/?username=enkg60)
-
-### 💬 Now:
-* Creating chess in C++.
-
-### 💭 Later:
-* Quake inspired game using SDL2*
-* Learn graphics programming
-* [More...](./todo.md)
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enkg60&theme=solarized-light&show_icons=true&hide_border=false&count_private=false" alt="enkg" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="enkg" align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white" alt="enkg" align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="enkg" align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="enkg" /></p>
+#+HTML:<DIV CLASS="centeralign">
+{ 'e' }
+#+HTML:</div>
