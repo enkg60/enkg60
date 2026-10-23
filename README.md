@@ -1,15 +1,7 @@
 <h1 align="center">Emilio Guevara</h1>
-<h3 align="center">Hacker man with skills in C++ and Competitive Coding</h3>
+<h3 align="center">Skills in C++ and Competitive Coding</h3>
 
 ![](https://komarev.com/ghpvc/?username=enkg60)
-
-### 💬 Now:
-* Creating chess in C++.
-
-### 💭 Later:
-* Quake inspired game using SDL2*
-* Learn graphics programming
-* [More...](./todo.md)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enkg60&theme=solarized-light&show_icons=true&hide_border=false&count_private=false" alt="enkg" /></p>
 
